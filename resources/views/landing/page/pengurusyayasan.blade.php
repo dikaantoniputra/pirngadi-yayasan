@@ -14,8 +14,8 @@ Bukti Pembayaran
     <div class="kingster-page-title-overlay"></div>
     <div class="kingster-page-title-container kingster-container">
         <div class="kingster-page-title-content kingster-item-pdlr">
-            <div class="kingster-page-caption">Full Width, With Excerpt & Space</div>
-            <h1 class="kingster-page-title">Portfolio 5 Columns</h1></div>
+            <div class="kingster-page-caption">Pengurus </div>
+            <h1 class="kingster-page-title">YBPPK PIRNGADI</h1></div>
     </div>
 </div>
 <div class="kingster-page-wrapper" id="kingster-page-wrapper">
@@ -38,7 +38,7 @@ Bukti Pembayaran
                                             </div>
                                         </div>
                                         <div class="gdlr-core-portfolio-content-wrap gdlr-core-skin-divider">
-                                            <h3 class="gdlr-core-portfolio-title gdlr-core-skin-title" style="font-size: 17px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;"><a href="#" >Charity &#038; Voluntary For Social</a></h3><span class="gdlr-core-portfolio-info gdlr-core-portfolio-info-tag gdlr-core-info-font gdlr-core-skin-caption" style="font-style: normal ;"><a href="#" rel="tag">Charity</a> <span class="gdlr-core-sep">/</span> <a href="#" rel="tag">Social</a></span>
+                                            <h3 class="gdlr-core-portfolio-title gdlr-core-skin-title" style="font-size: 17px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;"><a href="#" >Bpk.Yusuf Martin</a></h3><span class="gdlr-core-portfolio-info gdlr-core-portfolio-info-tag gdlr-core-info-font gdlr-core-skin-caption" style="font-style: normal ;"><a href="#" rel="tag"></a><a href="#" rel="tag">Ketua Pengurus</a></span>
                                             <div class="gdlr-core-portfolio-content"></div>
                                         </div>
                                     </div>

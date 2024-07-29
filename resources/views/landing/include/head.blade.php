@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Kingster &#8211; School, College &amp; University HTML Template</title>
+    <title>YBPPK &#8211; PIRNGADI &amp; SURABAYA</title>
 
     <link rel='stylesheet' href='{{asset('')}}plugins/goodlayers-core/plugins/combine/style.css' type='text/css' media='all' />
     <link rel='stylesheet' href='{{asset('')}}plugins/goodlayers-core/include/css/page-builder.css' type='text/css' media='all' />
