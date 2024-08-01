@@ -29,9 +29,7 @@ Route::get('/ybppk-pirngadi-visi&misi', function () {
     return view('landing.page.visi_misi');
 });
 
-Route::get('/ybppk-pirngadi-value', function () {
-    return view('landing.page.value');
-});
+
 
 Route::get('/ybppk-pirngadi-pengurus', function () {
     return view('landing.page.pengurusyayasan');

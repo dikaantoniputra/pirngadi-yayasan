@@ -263,8 +263,8 @@ Bukti Pembayaran
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom" id="div_1dd7_74">
                     <div class="gdlr-core-pbf-element">
-                        <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" id="div_1dd7_75">
-                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" id="div_1dd7_76">
+                        <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align">
+                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" >
                                 <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?app=desktop&v=ug5mNCOS1Ak"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
                             </div>
                         </div>
@@ -278,7 +278,7 @@ Bukti Pembayaran
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" id="div_1dd7_77">
                             <div class="gdlr-core-text-box-item-content" id="div_1dd7_78">
-                                <p>Video Natal Bersama YBPPK PIRNGADI.</p>
+                                <p>Video Profile.</p>
                             </div>
                         </div>
                     </div>
@@ -294,19 +294,19 @@ Bukti Pembayaran
                             
                             <div class="gdlr-core-tab-item-content-image-wrap clearfix">
                                 <div class="gdlr-core-tab-item-image  gdlr-core-active" data-tab-id="1">
-                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
+                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=-172xbujEyc">
                                         <span class="gdlr-core-tab-item-image-background" id="span_1dd7_1"  ></span>
                                         <i class="fa fa-play" ></i>
                                     </a>
                                 </div>
                                 <div class="gdlr-core-tab-item-image " data-tab-id="2">
-                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
+                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=3a47ld6qTRU">
                                         <span class="gdlr-core-tab-item-image-background" id="span_1dd7_2"  ></span>
                                         <i class="fa fa-play" ></i>
                                     </a>
                                 </div>
                                 <div class="gdlr-core-tab-item-image " data-tab-id="3">
-                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
+                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=PTgU7tdcc24&t=1s">
                                         <span class="gdlr-core-tab-item-image-background" id="span_1dd7_3"  ></span>
                                         <i class="fa fa-play" ></i>
                                     </a>

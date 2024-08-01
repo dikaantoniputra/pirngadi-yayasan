@@ -24,10 +24,9 @@
                         <li class="menu-item kingster-normal-menu"><a href="ybppk-pirngadi-lambang">Lambang</a></li>
                         <li class="menu-item kingster-normal-menu"><a href="ybppk-pirngadi-visi&misi"> Visi & Misi</a>
                         </li>
-                        <li class="menu-item kingster-normal-menu"><a href="ybppk-pirngadi-value">Value</a></li>
-                        <li class="menu-item kingster-normal-menu"><a href="ybppk-pirngadi-pengurus">Pengurus
-                                Yayasan</a></li>
-                        <li class="menu-item kingster-normal-menu"><a href="ybppk-pirngadi-manajerial">Manajerial</a>
+                       
+                        <li class="menu-item kingster-normal-menu"><a href="ybppk-pirngadi-pengurus">Pengurus Yayasan Gereja </a></li>
+                        <li class="menu-item kingster-normal-menu"><a href="ybppk-pirngadi-manajerial">Pengurus Yayasan 2022-2027</a>
                         </li>
 
 
