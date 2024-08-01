@@ -61,7 +61,7 @@ Bukti Pembayaran
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_0">Sekolah TK Kristen</h3>
-                                                    <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_3">Program Pendidikan di Pirngadi</div>
+                                                
                                                 </div>
                                             </div>
                                         </div>
@@ -78,7 +78,7 @@ Bukti Pembayaran
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_1">Sekolah SD Kristen</h3>
-                                                    <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_6">Kisah Kesuksesan Alumni</div>
+                                                    {{-- <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_6">Kisah Kesuksesan Alumni</div> --}}
                                                 </div>
                                             </div>
                                         </div>
@@ -95,7 +95,7 @@ Bukti Pembayaran
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_2">Sekolah SMP Kristen</h3>
-                                                    <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_9">Kegiatan Olahraga di Panti</div>
+                                                    {{-- <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_9">Kegiatan Olahraga di Panti</div> --}}
                                                 </div>
                                             </div>
                                         </div>
@@ -112,7 +112,7 @@ Bukti Pembayaran
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_3">Sekolah SMA Kristen</h3>
-                                                    <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_12">Kegiatan Sosial dan Keagamaan di Pirngadi</div>
+                                                    {{-- <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_12">Kegiatan Sosial dan Keagamaan di Pirngadi</div> --}}
                                                 </div>
                                             </div>
                                         </div>
