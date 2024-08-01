@@ -9,7 +9,7 @@
 
 @section('content')
     <div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align"
-        style="background-image: url(upload/page-title-apply.jpg) ;">
+        style="background-image: url({{ asset('upload/about-bg-1.jpg') }}) ;">
         <div class="kingster-header-transparent-substitute"></div>
         <div class="kingster-page-title-overlay"></div>
         <div class="kingster-page-title-bottom-gradient"></div>
@@ -48,7 +48,7 @@
                                 <div class="gdlr-core-title-item-title-wrap clearfix">
                                     <h3 class="gdlr-core-title-item-title gdlr-core-skin-title "
                                         style="font-size: 27px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;">
-                                        Detail Singkat Ybppk Pirngadi</h3>
+                                        Sejarah Singkat YBPPK PIRNGADI</h3>
                                 </div>
                             </div>
                         </div>
@@ -60,17 +60,9 @@
                                             class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                             <div class="gdlr-core-text-box-item-content"
                                                 style="font-size: 17px ;text-transform: none ;">
-                                                <p>Yayasan Pirngadi Surabaya merupakan lembaga yang didirikan pada awal abad
-                                                    ke-20 oleh Dr. Radjiman Wedyodiningrat dengan tujuan meningkatkan
-                                                    kesehatan dan pendidikan masyarakat di Surabaya dan sekitarnya. Dengan
-                                                    awal yang sederhana sebagai klinik kecil, yayasan ini berkembang menjadi
-                                                    rumah sakit dan institusi pendidikan medis yang dikenal
-                                                    luas.<br />Melalui dedikasi dan komitmen yang tinggi, Yayasan Pirngadi
-                                                    telah memberikan kontribusi signifikan dalam bidang kesehatan dan
-                                                    pendidikan, melayani jutaan pasien dan mendidik ribuan tenaga medis.
-                                                    Transformasi dan modernisasi yang dilakukan sepanjang perjalanan
-                                                    sejarahnya menunjukkan adaptasi yang kuat terhadap perkembangan
-                                                    teknologi dan kebutuhan masyarakat.</p>
+                                                <p>Yayasan Badan Pendidkan dan Pengajaran Kristen Pirngadi didirikan pada tanggal 13 Mei 1950, berdasarkan Akte Notaris Thedoor Robert Willem Vermeulen.
+                                                    Pada awal berdirinya Yayasan Badan Pendidikan dan Penagajan Kristen Pirngadi  memiliki dua jenjang pendidikan yaitu Sekolah Dasar Latihan (SD Latihan) dan Sekoloh Guru (SPG).
+                                                    
                                             </div>
                                         </div>
                                     </div>
@@ -85,17 +77,7 @@
                                             class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                             <div class="gdlr-core-text-box-item-content"
                                                 style="font-size: 17px ;text-transform: none ;">
-                                                <p>Kemitraan dengan berbagai lembaga nasional dan internasional serta
-                                                    berbagai penghargaan yang diterima mencerminkan pengakuan terhadap
-                                                    kontribusi yayasan ini. Dengan terus berupaya meningkatkan kualitas
-                                                    layanan dan program sosialnya, Yayasan Pirngadi Surabaya tetap menjadi
-                                                    pilar penting dalam meningkatkan kualitas hidup masyarakat di
-                                                    Indonesia.<br />
-                                                    Dengan demikian, Yayasan Pirngadi Surabaya adalah contoh nyata dari
-                                                    dedikasi dalam pelayanan kesehatan dan pendidikan, menunjukkan bahwa
-                                                    visi dan upaya yang konsisten dapat membawa perubahan positif yang luas
-                                                    dan berkelanjutan bagi masyarakat.
-                                                </p>
+                                               <img src="{{ asset('upload/sejarah.png') }}">
                                             </div>
                                         </div>
                                     </div>
@@ -134,17 +116,11 @@
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title"
-                                                        style="font-size: 18px ;text-transform: none ;">Awal Mula dan
-                                                        Pendirian</h3>
+                                                        style="font-size: 18px ;text-transform: none ;">01 Agustus 1957 </h3>
                                                 </div>
                                                 <div class="gdlr-core-column-service-content"
                                                     style="font-size: 16px ;text-transform: none ;">
-                                                    <p>YBPPK Pirngadi didirikan dengan tujuan utama untuk meningkatkan
-                                                        kualitas pendidikan di Surabaya dan sekitarnya. Yayasan ini berdiri
-                                                        pada masa ketika kebutuhan akan pendidikan yang berkualitas dan
-                                                        terjangkau sangat mendesak. Para pendiri yayasan, yang terdiri dari
-                                                        tokoh-tokoh pendidikan dan masyarakat setempat, berkomitmen untuk
-                                                        menciptakan lembaga yang dapat memenuhi kebutuhan tersebut.</p>
+                                                    <p>Didirikanlah sekolah Taman Kanak-kanak Kristen Pirngadi (TK)</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -164,16 +140,12 @@
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title"
-                                                        style="font-size: 18px ;text-transform: none ;">Perkembangan Awal
+                                                        style="font-size: 18px ;text-transform: none ;">19 Januari 1967 
                                                     </h3>
                                                 </div>
                                                 <div class="gdlr-core-column-service-content"
                                                     style="font-size: 16px ;text-transform: none ;">
-                                                    <p>Pada masa-masa awal, YBPPK Pirngadi fokus pada pendirian
-                                                        sekolah-sekolah dasar yang memberikan pendidikan dasar kepada
-                                                        anak-anak dari berbagai latar belakang sosial. Sekolah-sekolah ini
-                                                        tidak hanya mengajarkan kurikulum nasional, tetapi juga menanamkan
-                                                        nilai-nilai moral dan etika yang kuat kepada siswa-siswinya.</p>
+                                                    <p>Didirikalah sekolah Menengah Pertama Kristen Pirngadi (SMP)</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -192,18 +164,11 @@
                                             <div class="gdlr-core-column-service-content-wrapper">
                                                 <div class="gdlr-core-column-service-title-wrap">
                                                     <h3 class="gdlr-core-column-service-title gdlr-core-skin-title"
-                                                        style="font-size: 18px ;text-transform: none ;">Ekspansi dan
-                                                        Diversifikasi</h3>
+                                                        style="font-size: 18px ;text-transform: none ;">01 Juni 1978 </h3>
                                                 </div>
                                                 <div class="gdlr-core-column-service-content"
                                                     style="font-size: 16px ;text-transform: none ;">
-                                                    <p>Seiring berjalannya waktu, YBPPK Pirngadi memperluas cakupan
-                                                        pendidikannya dengan mendirikan sekolah menengah pertama (SMP) dan
-                                                        sekolah menengah atas (SMA). Mereka juga mulai menawarkan program
-                                                        pendidikan kejuruan untuk mempersiapkan siswa dengan keterampilan
-                                                        praktis yang diperlukan dalam dunia kerja. Selain itu, yayasan ini
-                                                        menyediakan berbagai program ekstra kurikuler untuk mengembangkan
-                                                        bakat dan minat siswa dalam bidang seni, olahraga, dan sains.</p>
+                                                    <p>Didirikanlah  sekolah Menengah Atas Kristen Pirngadi  (SMA)</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -211,99 +176,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first"
-                            data-skin="Blut Title Column Service">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr"
-                                            style="padding-bottom: 20px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-character"
-                                                style="margin-top: 5px;font-size: 45px ;color: #3db166 ;">4</div>
-                                            <div class="gdlr-core-column-service-content-wrapper">
-                                                <div class="gdlr-core-column-service-title-wrap">
-                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title"
-                                                        style="font-size: 18px ;text-transform: none ;">Program Beasiswa
-                                                        dan Dukungan</h3>
-                                                </div>
-                                                <div class="gdlr-core-column-service-content"
-                                                    style="font-size: 16px ;text-transform: none ;">
-                                                    <p>Untuk memastikan bahwa pendidikan yang berkualitas dapat diakses oleh
-                                                        semua kalangan, YBPPK Pirngadi meluncurkan berbagai program
-                                                        beasiswa. Program ini ditujukan bagi siswa berprestasi dari keluarga
-                                                        kurang mampu, memungkinkan mereka untuk mendapatkan pendidikan yang
-                                                        layak tanpa harus khawatir tentang biaya. Selain itu, yayasan ini
-                                                        juga menyediakan dukungan tambahan seperti bimbingan belajar,
-                                                        pelatihan keterampilan, dan konseling untuk membantu siswa mencapai
-                                                        potensi penuh mereka.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20" data-skin="Blut Title Column Service">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr"
-                                            style="padding-bottom: 20px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-character"
-                                                style="margin-top: 5px;font-size: 45px ;color: #3db166 ;">5</div>
-                                            <div class="gdlr-core-column-service-content-wrapper">
-                                                <div class="gdlr-core-column-service-title-wrap">
-                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title"
-                                                        style="font-size: 18px ;text-transform: none ;">Kolaborasi dan
-                                                        Kemitraan</h3>
-                                                </div>
-                                                <div class="gdlr-core-column-service-content"
-                                                    style="font-size: 16px ;text-transform: none ;">
-                                                    <p>YBPPK Pirngadi menjalin kemitraan dengan berbagai institusi
-                                                        pendidikan nasional dan internasional untuk meningkatkan kualitas
-                                                        pendidikan yang mereka tawarkan. Kemitraan ini melibatkan pertukaran
-                                                        tenaga pengajar, program magang bagi siswa, serta kolaborasi dalam
-                                                        penelitian dan pengembangan. Dengan demikian, yayasan ini dapat
-                                                        terus mengikuti perkembangan terbaru dalam dunia pendidikan dan
-                                                        memastikan bahwa kurikulum dan metode pengajaran yang digunakan
-                                                        selalu relevan dan efektif.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="gdlr-core-pbf-column gdlr-core-column-20" data-skin="Blut Title Column Service">
-                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                    <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr"
-                                            style="padding-bottom: 20px;">
-                                            <div class="gdlr-core-column-service-media gdlr-core-character"
-                                                style="margin-top: 5px;font-size: 45px ;color: #3db166 ;">6</div>
-                                            <div class="gdlr-core-column-service-content-wrapper">
-                                                <div class="gdlr-core-column-service-title-wrap">
-                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title"
-                                                        style="font-size: 18px ;text-transform: none ;">Dampak dan
-                                                        Kontribusi</h3>
-                                                </div>
-                                                <div class="gdlr-core-column-service-content"
-                                                    style="font-size: 16px ;text-transform: none ;">
-                                                    <p>Selama bertahun-tahun, YBPPK Pirngadi telah memberikan dampak yang
-                                                        signifikan dalam dunia pendidikan di Indonesia. Ribuan siswa telah
-                                                        lulus dari institusi-institusi di bawah naungan yayasan ini dan
-                                                        berhasil meraih kesuksesan dalam karir mereka. Dedikasi YBPPK
-                                                        Pirngadi dalam menyediakan pendidikan berkualitas telah membantu
-                                                        menciptakan generasi muda yang berpendidikan, berkompeten, dan siap
-                                                        menghadapi tantangan masa depan.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
             </div>
@@ -381,22 +254,22 @@
                                                             </tr>
                                                             <tr>
                                                                 <td>1</td>
-                                                                <td>TKK</td>
+                                                                <td>TK KRISTEN</td>
                                                                 <td>https://tkk.pirngadi.sch.id/</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>2</td>
-                                                                <td>SDK</td>
+                                                                <td>SD KRISTEN</td>
                                                                 <td>https://sdk.pirngadi.sch.id/</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>3</td>
-                                                                <td>SMPK</td>
+                                                                <td>SMP KRISTEN</td>
                                                                 <td>https://smpk.pirngadi.sch.id/</td>
                                                             </tr>
                                                             <tr>
                                                                 <td>4</td>
-                                                                <td>SMAK</td>
+                                                                <td>SMA KRISTEN</td>
                                                                 <td>https://smak.pirngadi.sch.id/</td>
                                                             </tr>
                                                         </tbody>

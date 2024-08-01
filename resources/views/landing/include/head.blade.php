@@ -1,7 +1,19 @@
 <!-- Mirrored from max-themes.net/demos/kingster/college/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 24 Jul 2024 00:52:24 GMT -->
 <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9FH7D9C57"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-P9FH7D9C57');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('upload/logo.png') }}">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('upload/logo.png') }}">
 
     <title>YBPPK &#8211; PIRNGADI &amp; SURABAYA</title>
 
