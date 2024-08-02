@@ -3,7 +3,7 @@
         <div class="kingster-mobile-header-container kingster-container clearfix">
             <div class="kingster-logo  kingster-item-pdlr">
                 <div class="kingster-logo-inner">
-                    <a class="" href="index.html"><img src="images/logo.png" alt="" /></a>
+                    <a class="" href="index.html"><img src="{{ asset('upload/logo.png') }}" alt="" style="height: 70px" /></a>
                 </div>
             </div>
             <div class="kingster-mobile-menu-right">
@@ -16,12 +16,11 @@
                             </li>
                            
                            
-                            <li class="menu-item"><a href="athletics.html">Sejarah</a></li>
-                            <li class="menu-item"><a href="university-life.html">Lambang</a></li>
-                            <li class="menu-item"><a href="university-life.html"> Visi & Misi</a></li>
-                            <li class="menu-item"><a href="university-life.html">Value</a></li>
-                            <li class="menu-item"><a href="university-life.html">Pengurus Yayasan</a></li>
-                            <li class="menu-item"><a href="university-life.html">Manajerial</a></li>
+                            <li class="menu-item"><a href="ybppk-pirngadi-sejarah">Sejarah</a></li>
+                            <li class="menu-item"><a href="ybppk-pirngadi-lambang">Lambang</a></li>
+                            <li class="menu-item"><a href="ybppk-pirngadi-visi&misi"> Visi & Misi</a></li>
+                            <li class="menu-item"><a href="ybppk-pirngadi-pengurus">Pengurus Yayasan</a></li>
+                            <li class="menu-item"><a href="ybppk-pirngadi-manajerial">Manajerial</a></li>
                         </ul>
                     </div>
                 </div>

@@ -16,7 +16,7 @@
                             <span style="font-size: 15px; color: #ffffff;">+62 812-3522-0760</span><br />
                             <span class="gdlr-core-space-shortcode" style="margin-top: -20px;"></span><br />
                             <a style="font-size: 15px; color: #8dd7e5;" href="#">
-                                <span class="__cf_email__">rmail@gmail</span>
+                                <span class="__cf_email__">sekretariat@pirngadi.sch.id</span>
                             </a><br/>
                             <span style="font-size: 15px; color: #ffffff;">Jl. Pirngadi No. 4-14 Surabaya</span><br />
                         </p>
@@ -29,11 +29,13 @@
                     <span class="clear"></span>
                     <div class="menu-our-campus-container">
                         <ul id="menu-our-campus" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item  kingster-normal-menu"><a href="#">SEKOLAH SMA</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">SEKOLAH SMP</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">SEKOLAH SD</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">SEKOLAH TK</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">DAYCARE</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="#">SMA</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="#">SMP</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="#">SD</a></li>
+                    
+                            <li class="menu-item  kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">Montessori Kindergarten</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="#">Montessori Playgroup</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="#">Montessori Daycare</a></li>
                            
                         </ul>
                     </div>
@@ -61,10 +63,11 @@
                     <span class="clear"></span>
                     <div class="menu-academics-container">
                         <ul id="menu-academics" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Tentang Kami</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Visi & Misi</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Kontak</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Blog</a></li>
+                            <li class="menu-item"><a href="ybppk-pirngadi-sejarah">Sejarah</a></li>
+                            <li class="menu-item"><a href="ybppk-pirngadi-lambang">Lambang</a></li>
+                            <li class="menu-item"><a href="ybppk-pirngadi-visi&misi"> Visi & Misi</a></li>
+                            <li class="menu-item"><a href="ybppk-pirngadi-pengurus">Pengurus Yayasan</a></li>
+                            <li class="menu-item"><a href="ybppk-pirngadi-manajerial">Manajerial</a></li>
                            
                         </ul>
                     </div>
